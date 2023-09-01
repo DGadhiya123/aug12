@@ -1,0 +1,9 @@
+linux is case sensitive we need to write command in lower case only
+ $(doller) means normal user.
+most important command is $ doller if you make any mistake and you will press enter and not get $ doller then no matter you do command won't work so most important part to remember is 
+control C and you will get back you command $Doller 
+ # (hash) means root users.
+ ls means 
+ ls -l  means 
+ ls -l any finl name and *  
+   
